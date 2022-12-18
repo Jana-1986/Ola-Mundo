@@ -1,2 +1,4 @@
-# Ola Mundo
- primeiro repositório do curso em video
+# Olá, Mundo!
+ Primeiro repositório Git e GitHub
+
+ Repositório criado durante uma ao vivo!
